@@ -1,3 +1,8 @@
+# Audio Dataset 
+
+This repo contains release details and metadata for the Common Voice dataset. 
+Please visit https://commonvoice.mozilla.org/datasets to download the full dataset.
+
 # GCS Audio Dataset Uploader
 
 This project contains a Python script that uploads a large dataset of over 2 million audio files to a Google Cloud Storage (GCS) bucket using concurrent uploads. The dataset includes audio files from Mozilla's Common Voice corpus.
